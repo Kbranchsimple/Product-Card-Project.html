@@ -1,0 +1,19 @@
+<div class="product-card">
+		<div class="badge">Hot</div>
+		<div class="product-tumb">
+			<img src=https://i.pinimg.com/originals/5e/34/ce/5e34ce234e5eebec03d0af9af446735a.jpg>
+		</div>
+		<div class="product-details">
+			<span class="product-catagory">Women,purse</span>
+			<h4><a href="">Chanel bag </a></h4>
+			<p>Lambskin & Gold-Tone Metal
+Sky Blue </p>
+			<div class="product-bottom-details">
+				<div class="product-price"><small>$6,500</small>$2,250</div>
+				<div class="product-links">
+					<a href=""><i class="fa fa-heart"></i></a>
+					<a href=""><i class="fa fa-shopping-cart"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
